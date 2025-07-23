@@ -40,6 +40,7 @@ This is a collection of tools I use personally. Use them at your own risk, ideal
 
 # License
 WTFPL — Do What The F*ck You Want To Public License
+
 Because you shouldn’t need permission to run weird scripts on even weirder networks.
 
 # Final squawk
